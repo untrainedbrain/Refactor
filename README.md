@@ -1,11 +1,13 @@
 # Refactor
 Impossible to Refactor Code that has been Refactored under Vanderdecken's Seven Rules
+
 This is an effort to solve the problem of writing poor software code. 
 
-[This is a work in progress, don’t go all ape shit about so rule you don’t like or don’t understand just yet.]
+[This is a work in progress, don’t go all ape shit about some rule you don’t like or don’t understand just yet.]
 
 The examples are written to be generic, please do not complain the syntax used.
-This is a work in progress, don’t go all ape shit about so rule you don’t like or don’t understand just yet.
+This is a work in progress, don’t go all ape shit about some rule you don’t like or don’t understand just yet. 
+	(Do I really need to keep making this point?)
 
 While there are many schools of how to write software correctly not many of them ever reach developers intact. Developers struggle without leadership and definite rules that can be applied to their code.
 
